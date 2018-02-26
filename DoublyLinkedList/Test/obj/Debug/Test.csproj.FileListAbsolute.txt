@@ -1,0 +1,12 @@
+C:\Users\jsiedersberger\Desktop\Projects\DoublyLinkedList\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\jsiedersberger\Desktop\Projects\DoublyLinkedList\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\jsiedersberger\Desktop\Projects\DoublyLinkedList\Test\bin\Debug\Test.exe.config
+C:\Users\jsiedersberger\Desktop\Projects\DoublyLinkedList\Test\bin\Debug\Test.exe
+C:\Users\jsiedersberger\Desktop\Projects\DoublyLinkedList\Test\bin\Debug\Test.pdb
+C:\Users\jsiedersberger\Desktop\Projects\DoublyLinkedList\Test\bin\Debug\DoublyLinkedList.dll
+C:\Users\jsiedersberger\Desktop\Projects\DoublyLinkedList\Test\bin\Debug\nunit.framework.dll
+C:\Users\jsiedersberger\Desktop\Projects\DoublyLinkedList\Test\bin\Debug\nunitlite.dll
+C:\Users\jsiedersberger\Desktop\Projects\DoublyLinkedList\Test\bin\Debug\DoublyLinkedList.pdb
+C:\Users\jsiedersberger\Desktop\Projects\DoublyLinkedList\Test\bin\Debug\nunit.framework.xml
+C:\Users\jsiedersberger\Desktop\Projects\DoublyLinkedList\Test\obj\Debug\Test.exe
+C:\Users\jsiedersberger\Desktop\Projects\DoublyLinkedList\Test\obj\Debug\Test.pdb

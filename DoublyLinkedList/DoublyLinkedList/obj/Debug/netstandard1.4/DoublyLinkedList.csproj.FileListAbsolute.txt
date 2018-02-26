@@ -1,0 +1,8 @@
+C:\Users\jsiedersberger\Desktop\Projects\DoublyLinkedList\DoublyLinkedList\bin\Debug\netstandard1.4\DoublyLinkedList.deps.json
+C:\Users\jsiedersberger\Desktop\Projects\DoublyLinkedList\DoublyLinkedList\bin\Debug\netstandard1.4\DoublyLinkedList.dll
+C:\Users\jsiedersberger\Desktop\Projects\DoublyLinkedList\DoublyLinkedList\bin\Debug\netstandard1.4\DoublyLinkedList.pdb
+C:\Users\jsiedersberger\Desktop\Projects\DoublyLinkedList\DoublyLinkedList\obj\Debug\netstandard1.4\DoublyLinkedList.csprojResolveAssemblyReference.cache
+C:\Users\jsiedersberger\Desktop\Projects\DoublyLinkedList\DoublyLinkedList\obj\Debug\netstandard1.4\DoublyLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\jsiedersberger\Desktop\Projects\DoublyLinkedList\DoublyLinkedList\obj\Debug\netstandard1.4\DoublyLinkedList.AssemblyInfo.cs
+C:\Users\jsiedersberger\Desktop\Projects\DoublyLinkedList\DoublyLinkedList\obj\Debug\netstandard1.4\DoublyLinkedList.dll
+C:\Users\jsiedersberger\Desktop\Projects\DoublyLinkedList\DoublyLinkedList\obj\Debug\netstandard1.4\DoublyLinkedList.pdb
